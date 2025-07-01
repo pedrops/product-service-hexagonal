@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\Products\\ProductService.Hexagonal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Corbin\\AppData\\Roaming\\Microsoft\\UserSecrets\\e4911955-c3c7-4bee-a1c0-ee5346a18bf7\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF563D4C-2070-46E3-89AC-672C01849A3F}|ProductService.Infrastructure\\ProductService.Infrastructure.csproj|c:\\repos\\products\\productservice.hexagonal\\productservice.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF563D4C-2070-46E3-89AC-672C01849A3F}|ProductService.Infrastructure\\ProductService.Infrastructure.csproj|solutionrelative:productservice.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135F2D7E-E4D3-4D52-8489-2F2ACA65F94D}|ProductService.Tests\\ProductService.Tests.csproj|c:\\repos\\products\\productservice.hexagonal\\productservice.tests\\api\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135F2D7E-E4D3-4D52-8489-2F2ACA65F94D}|ProductService.Tests\\ProductService.Tests.csproj|solutionrelative:productservice.tests\\api\\productscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB2196D-2F80-4E04-ACFA-21EAB9F3D76C}|ProductService.Hexagonal\\ProductService.API.csproj|c:\\repos\\products\\productservice.hexagonal\\productservice.hexagonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB2196D-2F80-4E04-ACFA-21EAB9F3D76C}|ProductService.Hexagonal\\ProductService.API.csproj|solutionrelative:productservice.hexagonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135F2D7E-E4D3-4D52-8489-2F2ACA65F94D}|ProductService.Tests\\ProductService.Tests.csproj|c:\\repos\\products\\productservice.hexagonal\\productservice.tests\\application\\handlers\\getproductdetailsqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135F2D7E-E4D3-4D52-8489-2F2ACA65F94D}|ProductService.Tests\\ProductService.Tests.csproj|solutionrelative:productservice.tests\\application\\handlers\\getproductdetailsqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135F2D7E-E4D3-4D52-8489-2F2ACA65F94D}|ProductService.Tests\\ProductService.Tests.csproj|c:\\repos\\products\\productservice.hexagonal\\productservice.tests\\application\\handlers\\updateproductcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135F2D7E-E4D3-4D52-8489-2F2ACA65F94D}|ProductService.Tests\\ProductService.Tests.csproj|solutionrelative:productservice.tests\\application\\handlers\\updateproductcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135F2D7E-E4D3-4D52-8489-2F2ACA65F94D}|ProductService.Tests\\ProductService.Tests.csproj|c:\\repos\\products\\productservice.hexagonal\\productservice.tests\\application\\handlers\\getproductbyidqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135F2D7E-E4D3-4D52-8489-2F2ACA65F94D}|ProductService.Tests\\ProductService.Tests.csproj|solutionrelative:productservice.tests\\application\\handlers\\getproductbyidqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135F2D7E-E4D3-4D52-8489-2F2ACA65F94D}|ProductService.Tests\\ProductService.Tests.csproj|c:\\repos\\products\\productservice.hexagonal\\productservice.tests\\application\\handlers\\getallproductsqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135F2D7E-E4D3-4D52-8489-2F2ACA65F94D}|ProductService.Tests\\ProductService.Tests.csproj|solutionrelative:productservice.tests\\application\\handlers\\getallproductsqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135F2D7E-E4D3-4D52-8489-2F2ACA65F94D}|ProductService.Tests\\ProductService.Tests.csproj|c:\\repos\\products\\productservice.hexagonal\\productservice.tests\\application\\handlers\\deleteproductcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135F2D7E-E4D3-4D52-8489-2F2ACA65F94D}|ProductService.Tests\\ProductService.Tests.csproj|solutionrelative:productservice.tests\\application\\handlers\\deleteproductcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135F2D7E-E4D3-4D52-8489-2F2ACA65F94D}|ProductService.Tests\\ProductService.Tests.csproj|c:\\repos\\products\\productservice.hexagonal\\productservice.tests\\application\\handlers\\addproductcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135F2D7E-E4D3-4D52-8489-2F2ACA65F94D}|ProductService.Tests\\ProductService.Tests.csproj|solutionrelative:productservice.tests\\application\\handlers\\addproductcommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135F2D7E-E4D3-4D52-8489-2F2ACA65F94D}|ProductService.Tests\\ProductService.Tests.csproj|c:\\repos\\products\\productservice.hexagonal\\productservice.tests\\infrastructure\\productrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135F2D7E-E4D3-4D52-8489-2F2ACA65F94D}|ProductService.Tests\\ProductService.Tests.csproj|solutionrelative:productservice.tests\\infrastructure\\productrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135F2D7E-E4D3-4D52-8489-2F2ACA65F94D}|ProductService.Tests\\ProductService.Tests.csproj|c:\\repos\\products\\productservice.hexagonal\\productservice.tests\\domain\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{135F2D7E-E4D3-4D52-8489-2F2ACA65F94D}|ProductService.Tests\\ProductService.Tests.csproj|solutionrelative:productservice.tests\\domain\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB2196D-2F80-4E04-ACFA-21EAB9F3D76C}|ProductService.Hexagonal\\ProductService.API.csproj|c:\\repos\\products\\productservice.hexagonal\\productservice.hexagonal\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BB2196D-2F80-4E04-ACFA-21EAB9F3D76C}|ProductService.Hexagonal\\ProductService.API.csproj|solutionrelative:productservice.hexagonal\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BB2196D-2F80-4E04-ACFA-21EAB9F3D76C}|ProductService.Hexagonal\\ProductService.API.csproj|c:\\repos\\products\\productservice.hexagonal\\productservice.hexagonal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BB2196D-2F80-4E04-ACFA-21EAB9F3D76C}|ProductService.Hexagonal\\ProductService.API.csproj|solutionrelative:productservice.hexagonal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF563D4C-2070-46E3-89AC-672C01849A3F}|ProductService.Infrastructure\\ProductService.Infrastructure.csproj|c:\\repos\\products\\productservice.hexagonal\\productservice.infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF563D4C-2070-46E3-89AC-672C01849A3F}|ProductService.Infrastructure\\ProductService.Infrastructure.csproj|solutionrelative:productservice.infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB489A6-7135-4EA6-95AF-54EBA3C57D4F}|ProductService.Application\\ProductService.Application.csproj|c:\\repos\\products\\productservice.hexagonal\\productservice.application\\handlers\\addproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB489A6-7135-4EA6-95AF-54EBA3C57D4F}|ProductService.Application\\ProductService.Application.csproj|solutionrelative:productservice.application\\handlers\\addproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetProductByIdQueryHandlerTests.cs",
+              "DocumentMoniker": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Tests\\Application\\Handlers\\GetProductByIdQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "ProductService.Tests\\Application\\Handlers\\GetProductByIdQueryHandlerTests.cs",
+              "ToolTip": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Tests\\Application\\Handlers\\GetProductByIdQueryHandlerTests.cs",
+              "RelativeToolTip": "ProductService.Tests\\Application\\Handlers\\GetProductByIdQueryHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:07:27.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllProductsQueryHandlerTests.cs",
+              "DocumentMoniker": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Tests\\Application\\Handlers\\GetAllProductsQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "ProductService.Tests\\Application\\Handlers\\GetAllProductsQueryHandlerTests.cs",
+              "ToolTip": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Tests\\Application\\Handlers\\GetAllProductsQueryHandlerTests.cs",
+              "RelativeToolTip": "ProductService.Tests\\Application\\Handlers\\GetAllProductsQueryHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:07:26.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteProductCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Tests\\Application\\Handlers\\DeleteProductCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "ProductService.Tests\\Application\\Handlers\\DeleteProductCommandHandlerTests.cs",
+              "ToolTip": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Tests\\Application\\Handlers\\DeleteProductCommandHandlerTests.cs",
+              "RelativeToolTip": "ProductService.Tests\\Application\\Handlers\\DeleteProductCommandHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:07:26.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Hexagonal\\Program.cs",
+              "RelativeDocumentMoniker": "ProductService.Hexagonal\\Program.cs",
+              "ToolTip": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Hexagonal\\Program.cs",
+              "RelativeToolTip": "ProductService.Hexagonal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:00:09.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddProductCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Tests\\Application\\Handlers\\AddProductCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "ProductService.Tests\\Application\\Handlers\\AddProductCommandHandlerTests.cs",
+              "ToolTip": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Tests\\Application\\Handlers\\AddProductCommandHandlerTests.cs",
+              "RelativeToolTip": "ProductService.Tests\\Application\\Handlers\\AddProductCommandHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:06:58.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductService.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductService.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T05:51:44.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsControllerTests.cs",
+              "DocumentMoniker": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Tests\\API\\ProductsControllerTests.cs",
+              "RelativeDocumentMoniker": "ProductService.Tests\\API\\ProductsControllerTests.cs",
+              "ToolTip": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Tests\\API\\ProductsControllerTests.cs",
+              "RelativeToolTip": "ProductService.Tests\\API\\ProductsControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:08:43.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Corbin\\AppData\\Roaming\\Microsoft\\UserSecrets\\e4911955-c3c7-4bee-a1c0-ee5346a18bf7\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Corbin\\AppData\\Roaming\\Microsoft\\UserSecrets\\e4911955-c3c7-4bee-a1c0-ee5346a18bf7\\secrets.json",
+              "ToolTip": "C:\\Users\\Corbin\\AppData\\Roaming\\Microsoft\\UserSecrets\\e4911955-c3c7-4bee-a1c0-ee5346a18bf7\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\Users\\Corbin\\AppData\\Roaming\\Microsoft\\UserSecrets\\e4911955-c3c7-4bee-a1c0-ee5346a18bf7\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-27T05:59:50.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetProductDetailsQueryHandlerTests.cs",
+              "DocumentMoniker": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Tests\\Application\\Handlers\\GetProductDetailsQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "ProductService.Tests\\Application\\Handlers\\GetProductDetailsQueryHandlerTests.cs",
+              "ToolTip": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Tests\\Application\\Handlers\\GetProductDetailsQueryHandlerTests.cs",
+              "RelativeToolTip": "ProductService.Tests\\Application\\Handlers\\GetProductDetailsQueryHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:07:28.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateProductCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Tests\\Application\\Handlers\\UpdateProductCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "ProductService.Tests\\Application\\Handlers\\UpdateProductCommandHandlerTests.cs",
+              "ToolTip": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Tests\\Application\\Handlers\\UpdateProductCommandHandlerTests.cs",
+              "RelativeToolTip": "ProductService.Tests\\Application\\Handlers\\UpdateProductCommandHandlerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:07:29.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductRepositoryTests.cs",
+              "DocumentMoniker": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Tests\\Infrastructure\\ProductRepositoryTests.cs",
+              "RelativeDocumentMoniker": "ProductService.Tests\\Infrastructure\\ProductRepositoryTests.cs",
+              "ToolTip": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Tests\\Infrastructure\\ProductRepositoryTests.cs",
+              "RelativeToolTip": "ProductService.Tests\\Infrastructure\\ProductRepositoryTests.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwD8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:03:51.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductTests.cs",
+              "DocumentMoniker": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Tests\\Domain\\ProductTests.cs",
+              "RelativeDocumentMoniker": "ProductService.Tests\\Domain\\ProductTests.cs",
+              "ToolTip": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Tests\\Domain\\ProductTests.cs",
+              "RelativeToolTip": "ProductService.Tests\\Domain\\ProductTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:03:45.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Hexagonal\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ProductService.Hexagonal\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Hexagonal\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "ProductService.Hexagonal\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:02:18.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Hexagonal\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductService.Hexagonal\\appsettings.json",
+              "ToolTip": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Hexagonal\\appsettings.json",
+              "RelativeToolTip": "ProductService.Hexagonal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-27T06:00:03.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Application\\Handlers\\AddProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "ProductService.Application\\Handlers\\AddProductCommandHandler.cs",
+              "ToolTip": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Application\\Handlers\\AddProductCommandHandler.cs",
+              "RelativeToolTip": "ProductService.Application\\Handlers\\AddProductCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T05:56:45.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ProductService.Infrastructure\\Data\\UnitOfWork.cs",
+              "ToolTip": "C:\\repos\\Products\\ProductService.Hexagonal\\ProductService.Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "ProductService.Infrastructure\\Data\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T05:51:10.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

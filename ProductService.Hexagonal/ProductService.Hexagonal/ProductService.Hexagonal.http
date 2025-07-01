@@ -1,0 +1,6 @@
+@ProductService.Hexagonal_HostAddress = http://localhost:5095
+
+GET {{ProductService.Hexagonal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
